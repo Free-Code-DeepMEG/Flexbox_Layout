@@ -27,3 +27,11 @@
     height: 300px;
     font-size: 24px;
 }
+
+.aside1{
+    background: yellow;
+}
+
+.aside2{
+    background: rgb(255, 0, 85);
+}
